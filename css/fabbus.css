@@ -1,0 +1,86 @@
+.btn-circle {
+  width: 230px;
+  height: 230px;
+  text-align: center;
+  padding: 36px 0;
+  font-size: 24px;
+  line-height: 2.42;
+  border-radius: 115px;
+}
+
+body {
+/*    font-family: "Roboto";*/
+}
+.jumbotron {
+    background-color: #ddeeff;
+    
+}
+
+.panel-default>.panel-heading {
+    
+
+     background-color: #dedede;
+     background-image: none;
+}
+.panel-title > a {
+        font-size: 26px;
+}
+
+.panel-body strong {
+    font-size: 18px;
+    border-bottom: 3px solid #dedede;
+}
+.panel-body p {
+    line-height: 1.76em;
+}
+
+h1#company_title, h1#fablab_title, h1#individual_title {
+    font-size: 42px;
+    text-align: left;
+    text-transform: uppercase;
+    padding-top: 40px;
+    border-top: 1px solid #dedede;
+}
+
+.yellow-bar {
+    background-color: #eb9316;
+    min-height: 30px;
+    width: 30px;
+    padding-right: 30px;
+    margin-right: 10px;
+}
+.green-bar {
+    padding-right: 30px;
+    background-color: #419641;
+    min-height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+.red-bar {
+    padding-right: 30px;
+    background-color: #c12e2a;
+    min-height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+
+
+footer {
+    
+    margin-top: 40px;
+    border-top: 1px solid #dedede;
+    margin-bottom: 40px;
+}
+
+.carousel-caption {
+    background-color: black;
+    opacity: 0.6;
+}
+
+
+.header {
+    
+    border-bottom: 1px solid #cccccc ;
+    
+}

@@ -1,0 +1,73 @@
+body {
+    font-family: "Open Sans";
+}
+
+header {
+    height: 200px;
+    width: 100%;
+    text-align:center;
+}
+
+h1 {
+  font-size:     72px;
+  line-height:   1.5;
+  color: #2c3e50;
+  font-weight:   100;
+}
+
+h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.lead {
+    width: 200px;
+    font-size: 14px;
+}
+
+
+#container {
+    text-align: center;
+  margin: 0 auto;
+}
+
+section {
+  height: 200px;
+  margin: 60px 0;
+}
+
+section.hero {
+    text-align: center;
+}
+
+.questions {
+    display: none;
+}
+
+
+#main {
+  text-align: center;
+}
+
+
+.lead {
+    padding-top: 80px;
+    width: 200px;
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.who_individual .lead {
+  background-color: #9b59b6;
+}
+
+.who_fablab .lead {
+  background-color: #3498db;
+}
+
+.who_company .lead {
+  background-color: #2ecc71;
+}
